@@ -3,3 +3,5 @@
 
 
 https://colab.research.google.com/drive/1GPYzjxncITPeO2hff7S_yEg4bIsZBwP3#scrollTo=qeTo0Ma_yqFt&line=20&uniqifier=1
+
+The colab is not my final, the .py file is.
